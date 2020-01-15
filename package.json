@@ -1,5 +1,5 @@
 {
-  "name": "easy-peasy",
+  "name": "reactivent",
   "version": "3.2.6",
   "description": "Vegetarian friendly state for React",
   "license": "MIT",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ctrlplusb/easy-peasy.git"
+    "url": "https://github.com/Bhanukamax/reactivent.git"
   },
-  "homepage": "https://github.com/ctrlplusb/easy-peasy#readme",
+  "homepage": "https://github.com/Bhanukamax/reactivent#readme",
   "author": "Sean Matheson <sean@ctrlplusb.com>",
   "keywords": [
     "react",
